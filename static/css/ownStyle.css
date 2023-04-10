@@ -1,0 +1,30 @@
+.post-html hr:after {
+	width: 100% !important;
+}
+
+h3 {
+	display: -webkit-inline-box;
+}
+
+.timeline-title:after {
+	width: 100% !important;
+}
+
+.post-html h1,
+.post-html h2,
+.post-html h3,
+.post-html h4,
+.post-html h5,
+.post-html h6 {
+	display: table;
+}
+
+.post-html h1:after,
+.post-html h2:after,
+.post-html h3:after,
+.post-html h4:after,
+.post-html h5:after,
+.post-html h6:after {
+	width: 100% !important;
+	left: 0;
+}
